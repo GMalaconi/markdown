@@ -28,6 +28,7 @@
 .main {
     margin-top: 115px;
     display: inline-flex;
+    width: 100%;
 }
 
 .editor {
